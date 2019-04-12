@@ -1,2 +1,2 @@
-# RedHat
-A Music RecSys
+# RedHat Hackathon - 2019
+JamBot - A Music RecSys.
